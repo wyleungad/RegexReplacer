@@ -1,0 +1,8 @@
+C:\Users\wanyin_leung\source\repos\RegexReplacer\RegexReplacer\bin\Debug\RegexReplacer.exe.config
+C:\Users\wanyin_leung\source\repos\RegexReplacer\RegexReplacer\bin\Debug\RegexReplacer.exe
+C:\Users\wanyin_leung\source\repos\RegexReplacer\RegexReplacer\bin\Debug\RegexReplacer.pdb
+C:\Users\wanyin_leung\source\repos\RegexReplacer\RegexReplacer\obj\Debug\RegexReplacer.csproj.AssemblyReference.cache
+C:\Users\wanyin_leung\source\repos\RegexReplacer\RegexReplacer\obj\Debug\RegexReplacer.csproj.SuggestedBindingRedirects.cache
+C:\Users\wanyin_leung\source\repos\RegexReplacer\RegexReplacer\obj\Debug\RegexReplacer.csproj.CoreCompileInputs.cache
+C:\Users\wanyin_leung\source\repos\RegexReplacer\RegexReplacer\obj\Debug\RegexReplacer.exe
+C:\Users\wanyin_leung\source\repos\RegexReplacer\RegexReplacer\obj\Debug\RegexReplacer.pdb
